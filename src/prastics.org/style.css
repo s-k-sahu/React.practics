@@ -1,0 +1,14 @@
+.Hello {
+    background-color: rgb(245, 107, 58);
+    color: rgb(145, 231, 191);
+    text-align: center;
+    border: 3px solid blueviolet;
+    border-radius: 30px;
+    
+}
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
